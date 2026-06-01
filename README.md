@@ -10,6 +10,8 @@ Source: Kaggle - IT Support Helpdesk Dataset
 Size: 100,000 tickets
 Key fields: Ticket ID, Status, Priority, Channel, Region, Issue Type, Resolution Time (hours), CSAT Score
 
+# EXCEL FILE: https://github.com/madiharoheen8/IT-Helpdesk-Ticket-Performance-Dashboard/blob/main/IT%20Helpdesk%20Ticket%20Performance%20Dashboard.xlsx
+
 
 ## Tools Used
 
@@ -43,8 +45,7 @@ Overall CSAT score is 2.2 out of 5 — indicating significant room for improveme
 CSAT scores are consistent across channels (2.2–2.3), suggesting the satisfaction issue is systemic rather than channel-specific
 
 
-## File Structure
-SheetDescriptionRaw DataOriginal unmodified dataset from KaggleClean DataCleaned data with helper columns for analysisPivot TablesAll pivot tables powering the dashboardDashboardInteractive visual dashboard with slicers
+
 
 ## How to Use
 
