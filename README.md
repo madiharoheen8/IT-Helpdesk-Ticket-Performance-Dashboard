@@ -7,10 +7,12 @@ The goal was to turn raw helpdesk data into clear, actionable insights that a su
 ## Dataset
 
 Source: Kaggle - IT Support Helpdesk Dataset
+
 Size: 100,000 tickets
+
 Key fields: Ticket ID, Status, Priority, Channel, Region, Issue Type, Resolution Time (hours), CSAT Score
 
- EXCEL FILE: https://github.com/madiharoheen8/IT-Helpdesk-Ticket-Performance-Dashboard/blob/main/IT%20Helpdesk%20Ticket%20Performance%20Dashboard.xlsx
+EXCEL FILE: https://github.com/madiharoheen8/IT-Helpdesk-Ticket-Performance-Dashboard/blob/main/IT%20Helpdesk%20Ticket%20Performance%20Dashboard.xlsx
 
 
 ## Tools Used
